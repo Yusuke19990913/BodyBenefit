@@ -1,0 +1,17 @@
+/* 全体で共通のCSSはこのファイルに記述する */
+body {
+  background-color: #F7EFE3;
+}
+
+.ui.color1.button {
+  background-color: #0096FF;
+  color: #fff;
+}
+
+.main.container {
+  margin-top: 50px;
+}
+
+input {
+  height: 30px;
+}
